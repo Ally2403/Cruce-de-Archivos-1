@@ -1,0 +1,3 @@
+Allison,1,Marketing,Presidente,10000.0
+Santiago,2,Produccion,Vicepresidente,14000.0
+JuanPablo,3,Marketing,diseñador,1000.0
